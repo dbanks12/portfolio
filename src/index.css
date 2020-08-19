@@ -1,0 +1,44 @@
+body {
+  background-color: #3a3a3a;
+  color: #d0d0d0;
+  font-family: 'Ubuntu', sans-serif;
+}
+/*@media screen and (prefers-color-scheme: light) {
+  body {
+    background-color: #d0d0d0;
+    color: #3a3a3a;
+  }
+}*/
+.header {
+  padding: 60px;
+  text-align: center;
+  background: #98BCBD;
+  color: #3a3a3a;
+  font-size: 30px;
+}
+.section {
+  padding: 60px;
+  text-align: left;
+  font-size: 22px;
+}
+
+
+/* unvisited link */
+a:link {
+  color: #98BCBD;
+}
+
+/* visited link */
+a:visited {
+  color: #719872;
+}
+
+/* mouse over link */
+a:hover {
+  color: #e19772;
+}
+
+/* selected link */
+a:active {
+  color:  #e17899;
+}
