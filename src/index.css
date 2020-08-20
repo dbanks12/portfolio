@@ -11,15 +11,19 @@ body {
 }*/
 .header {
   padding: 60px;
+  padding: 3.5vmin;
   text-align: center;
   background: #98BCBD;
   color: #3a3a3a;
-  font-size: 30px;
+  font-size: 40px;
+  font-size: 3.5vmin;
 }
 .section {
-  padding: 60px;
+  padding: 40px;
+  padding: 3.5vh;
   text-align: left;
-  font-size: 22px;
+  font-size: 20px;
+  font-size: 2vh;
 }
 
 
