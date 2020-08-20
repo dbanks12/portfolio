@@ -22,7 +22,7 @@ class Top extends React.Component {
   constructor(props) {
     super(props);
     this.title = "David Joshua Banks";
-    this.subtitle = "Software and Hardware Engineer";
+    this.subtitle = "Software and Electrical Engineer";
     this.section_contents = [
       {
         heading: "GitHub",
