@@ -63,8 +63,8 @@ class Top extends React.Component {
     return (
       <div class="body">
         <div class="header">
-          <h1>David Joshua Banks</h1>
-          <p>Software and Hardware Engineer</p>
+          <h1>{this.title}</h1>
+          <p>{this.subtitle}</p>
         </div>
         {sections}
       </div>
